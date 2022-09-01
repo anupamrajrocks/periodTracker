@@ -201,7 +201,7 @@ input[type=text], input[type=password] {
 
 
 
-.btn {
+.btn-sign_in_up {
   background-color: green;
   color: white;
   padding: 16px;
